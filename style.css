@@ -49,6 +49,7 @@ body{
 .source-sec{
     display: flex;
     background-color: rgb(233, 177, 36);
+    padding-bottom: 50px;
 }
 .source-img img{
     height: 200px;
